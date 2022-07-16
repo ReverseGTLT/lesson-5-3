@@ -19,7 +19,6 @@ main {
     float: left;
     margin: 5px;
     height: calc(100vh - 200px - 30px);
-    display: inline-block;
     border: 2px solid black;
 }
 
@@ -28,7 +27,6 @@ main {
     float: right;
     margin: 5px;
     height: calc(100vh - 200px - 30px);
-    display: inline-block;
     border: 2px solid black;
 }
 
